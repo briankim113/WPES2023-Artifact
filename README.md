@@ -12,3 +12,8 @@ Please contact Brian Hyeongseok Kim at brian.hs.kim@usc.edu for any questions.
 Type ``npm start`` at the root directory to start the application, as defined in ``app.js``.
 
 The code assumes that the page is accessible at port 3000 and the MongoDB database is accessible at port 27017.
+
+## Citation
+ACM Reference Format:
+
+Brian Hyeongseok Kim, Shujaat Mirza, and Christina Pöpper. 2023. Extend- ing Browser Extension Fingerprinting to Mobile Devices. In Proceedings of the 22nd Workshop on Privacy in the Electronic Society (WPES ’23), Novem- ber 26, 2023, Copenhagen, Denmark. ACM, Copenhagen, Denmark, 6 pages. https://doi.org/10.1145/3603216.3624955
