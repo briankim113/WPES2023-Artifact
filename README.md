@@ -16,4 +16,4 @@ The code assumes that the page is accessible at port 3000 and the MongoDB databa
 ## Citation
 ACM Reference Format:
 
-Brian Hyeongseok Kim, Shujaat Mirza, and Christina Pöpper. 2023. Extend- ing Browser Extension Fingerprinting to Mobile Devices. In Proceedings of the 22nd Workshop on Privacy in the Electronic Society (WPES ’23), Novem- ber 26, 2023, Copenhagen, Denmark. ACM, Copenhagen, Denmark, 6 pages. https://doi.org/10.1145/3603216.3624955
+Brian Hyeongseok Kim, Shujaat Mirza, and Christina Pöpper. 2023. Extending Browser Extension Fingerprinting to Mobile Devices. In Proceedings of the 22nd Workshop on Privacy in the Electronic Society (WPES ’23), November 26, 2023, Copenhagen, Denmark. ACM, Copenhagen, Denmark, 6 pages. https://doi.org/10.1145/3603216.3624955
