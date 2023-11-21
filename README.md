@@ -1,6 +1,6 @@
 # Extending Extension Fingerprinting to Mobile Devices
 
-This artifact contains the files relevant to our WPES 2023 Paper "Extending Extension Fingerprinting to Mobile Devices."
+This artifact contains the files relevant to our WPES 2023 Paper "Extending Browser Extension Fingerprinting to Mobile Devices." Please find the PDF [here](https://briankim113.github.io/files/wpes23.pdf).
 
 ``public`` folder contains the HTML page with referenced JavaScript attack files that a client will access.
 
